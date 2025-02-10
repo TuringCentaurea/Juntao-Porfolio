@@ -4,4 +4,4 @@ Hello! I'm Juntao Guo, or you can call me Turing, a passionate data analyst base
 Beyond my technical expertise, I’ve developed a knack for storytelling through data, turning raw numbers into compelling narratives that drive strategic decision-making. My academic background in statistics, combined with my hands-on experience during my internship in performance evaluation, has allowed me to refine my skills in communicating insights to both technical and non-technical stakeholders. As I continue to explore and grow in the ever-evolving field of data analytics, I’m eager to leverage my problem-solving abilities and drive business growth by helping organizations make informed, data-driven decisions.
 
 Let’s connect and discover how to transform raw data into meaningful insights, unlocking its full potential to drive impactful decisions!
-# Scholar Performance Trends: Pandemic Impact Analysis <a href="https://github.com/TuringCentaurea/Scholar-Performance-Trends-Analysis.git"> 
+# Scholar Performance Trends: Pandemic Impact Analysis (https://github.com/TuringCentaurea/Scholar-Performance-Trends-Analysis.git) 
