@@ -6,4 +6,5 @@ Beyond my technical expertise, I’ve developed a knack for storytelling through
 Let’s connect and discover how to transform raw data into meaningful insights, unlocking its full potential to drive impactful decisions!
 
 Below are some of the projects I have worked on, showcasing my expertise in data analysis, visualization, machine learning and AI Services. You can click on the links to explore each project in detail: 
-# [Scholar Performance Trends: Pandemic Impact Analysis](https://github.com/TuringCentaurea/Scholar-Performance-Trends-Analysis.git) 
+# 1. [Scholar Performance Trends: Pandemic Impact Analysis](https://github.com/TuringCentaurea/Scholar-Performance-Trends-Analysis.git) 
+# 2. [Salary Analysis of Data-Related Jobs](https://github.com/TuringCentaurea/salary_analysis_I.git)
