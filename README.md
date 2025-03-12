@@ -8,3 +8,4 @@ Let’s connect and discover how to transform raw data into meaningful insights,
 Below are some of the projects I have worked on, showcasing my expertise in data analysis, visualization, machine learning and AI Services. You can click on the links to explore each project in detail: 
 # 1. [Scholar Performance Trends: Pandemic Impact Analysis](https://github.com/TuringCentaurea/Scholar-Performance-Trends-Analysis.git) 
 # 2. [Salary Analysis of Data-Related Jobs](https://github.com/TuringCentaurea/salary_analysis_I.git)
+# 3. [Fraudulent Transactions Analysis Report](https://github.com/TuringCentaurea/Transaction_Fraud_Analysis.git)
